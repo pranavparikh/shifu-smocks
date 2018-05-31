@@ -1,3 +1,3 @@
-[![Build Status](https://travis-ci.org/TestArmada/shifu.svg?branch=master)](https://travis-ci.org/TestArmada/shifu)
+[![Build Status](https://travis-ci.org/TestArmada/shifu-smocks.svg?branch=master)](https://travis-ci.org/TestArmada/shifu-smocks)
 
-[![codecov](https://codecov.io/gh/TestArmada/shifu/branch/master/graph/badge.svg)](https://codecov.io/gh/TestArmada/shifu)
+[![codecov](https://codecov.io/gh/TestArmada/shifu-smocks/branch/master/graph/badge.svg)](https://codecov.io/gh/TestArmada/shifu-smocks)
